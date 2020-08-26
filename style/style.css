@@ -1,0 +1,74 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.header-site {
+    background: #00BFFF;
+    margin: 0px;
+    padding: 80px;
+    color: white;
+}
+
+.header-site h1 {
+    margin-bottom: 30px;
+}
+
+.inputDiv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.txtInput {
+    border: none;
+    border-radius: 20px;
+    background: gainsboro;
+    padding: 15px 30px;
+}
+
+.btnSubmit {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 20px;
+    padding: 15px 82px;
+    background: #00BFFF;
+    color: white;
+}
+
+.divAfazeres {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.divAfazeres h2 {
+    margin-bottom: 20px;
+}
+
+.list-afazeres {
+    list-style: none;
+    padding: 0;
+}
+
+.divLista {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2.5em;
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 20px;
+    padding: 15px 82px;
+    background: #00BFFF;
+    color: white;
+}
+
+.rodape-site {
+    background-color: gainsboro;
+    position: absolute;
+    bottom: 0;
+}
