@@ -6,7 +6,7 @@
 # Techs: 
 HTML5<br>
 CSS3<br>
-JavasCript
+Javascript
 
 ### Agenda Pessoal Online
 🙋🏻‍♂️
